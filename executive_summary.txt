@@ -1,0 +1,10 @@
+This project analyzes store sales performance and customer purchasing behavior using Python.
+The analysis integrates customer, product, order, order-item, payment, shipment, and return datasets.
+The cleaned fact table contains 37,501 order-item records and 15,000 distinct orders.
+Gross line revenue reached ₱7,378,253.06, with an average order value of ₱491.88.
+The analysis covers monthly sales trends from January 2024 to January 2026.
+April 2025 recorded the highest monthly revenue, while February 2025 recorded the lowest.
+Toys generated the highest recognized category revenue, followed by Electronics.
+Central Luzon recorded the highest revenue among the six regions analyzed.
+Repeat customers represented 84.1% of identified customers under the selected-period definition.
+The dashboard presents sales KPIs, product and regional performance, customer spending, and cancellation trends.
