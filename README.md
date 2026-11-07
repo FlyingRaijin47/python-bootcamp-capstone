@@ -17,18 +17,17 @@ The exercises use retail and payment datasets to practice analytical techniques 
 | Day 5 | Data Visualization | Static and interactive visualizations |
 | Day 6 | Interactive Dashboard | Streamlit application |
 
-## 3. Main Portfolio Project
+## 3. Main Capstone Project
 
-The skills developed during the bootcamp are also demonstrated in my independent portfolio project:
+### Sales Performance & Customer Insights
 
-**Sales Performance & Customer Insights**
+This is my main capstone project, demonstrating the application of data analytics techniques to examine retail sales performance and customer purchasing behavior.
 
-This project analyzes retail sales performance and customer purchasing behavior using Python. It includes data preparation, exploratory analysis, business performance metrics, and an interactive Streamlit dashboard.
+The project includes data preparation, exploratory data analysis, business performance metrics, and an interactive Streamlit dashboard.
 
-**[View Sales Performance & Customer Insights](https://github.com/FlyingRaijin147/sales-performance-customer-insights)**
+**[View Sales Performance & Customer Insights — Main Capstone](https://github.com/FlyingRaijin47/sales-performance-customer-insights)**
 
-This is a separate portfolio project and is maintained in its own repository.
-
+This capstone is maintained in a separate GitHub repository from the Python Bootcamp assignments.
 ## 4. Repository Structure
 
 ```text
